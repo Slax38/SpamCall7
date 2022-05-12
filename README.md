@@ -2,6 +2,7 @@
 NUEVA VERSION DE SPAM!!Algunos Errores fueron arreglados
 INSTALACION:
 apt update && apt upgrade -y,
+pip install py-getch
 git clone https://github.com/Juan3817381/SpamCall7,
 cd SpamCall7
 PARA INSTALAR LOS REQUISITOS EJECUTA ESTE COMANDO: bash setup.sh
