@@ -36,10 +36,10 @@ def asw(b):
 asw(f"{m}VERSIONES POSTERIORES A LA VERSION 7    ")
 print()
 print (" [1] SpamCall6  ")
-print ("git clone hhtps://github.com/Juan3817381/SpamCall6")
+print ("git clone hhtps://github.com/Slax38/SpamCall6")
 print()
 print (" [2] SpamCall4 ")
-print ("git clone https://github.com://Juan3817381/SpamCall4")
+print ("git clone https://github.com://Slax38/SpamCall4")
 print (" PONERLO EN LA TERMINAL  ")
 
 balik()
