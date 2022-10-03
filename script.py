@@ -30,13 +30,13 @@ def asw(b):
   for m in b + "\n":
       sys.stdout.write(m)
       sys.stdout.flush()
-      time.sleep(3./100)
+      time.sleep(2./100)
 
 def lo(s):
   for c in s  + "\n":
       sys.stdout.write(c)
       sys.stdout.flush()
-      time.sleep(3./100)
+      time.sleep(2./100)
 
 asw(f"{m}          .                                                     *                                ")
 asw(f"{m}             -------             ----------           -----           ----         ----     ")
