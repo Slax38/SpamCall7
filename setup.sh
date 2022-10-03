@@ -36,6 +36,8 @@ echo -e $redColour
 sleep 0.5
 echo -n "[*] !INSTALANDO DEPENDENCIAS...!"
 sleep 3.6
+echo
+echo
 apt update && apt upgrade -y > /dev/null 2>&1
 apt install python3  > /dev/null 2>&1 
 pip install requests  > /dev/null 2>&1
