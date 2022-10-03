@@ -49,6 +49,7 @@ apt-get install getch
 pip install getch  
 echo ""
 echo -e "$redColour[*]!DEPENDENCIAS INSTALADAS CORRECTAMENTE...!"
+echo ""
 sleep 2.0
 echo -n "[*]!EJECUTANDO EL PROGRAMA...!"
 sleep 3 & while [ "$(ps a | awk '{print $1}' | grep $!)" ] ; do for X in '-' '\' '|' '/'; do echo -en "\b$X"; sleep 0.1; done; done 
