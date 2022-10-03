@@ -30,13 +30,13 @@ def asw(b):
   for m in b + "\n":
       sys.stdout.write(m)
       sys.stdout.flush()
-      time.sleep(1.5./100)
+      time.sleep(1./100)
 
 def lo(s):
   for c in s  + "\n":
       sys.stdout.write(c)
       sys.stdout.flush()
-      time.sleep(1.5./100)
+      time.sleep(1./100)
 
 asw(f"{m}          .                                                     *                                ")
 asw(f"{m}             -------             ----------           -----           ----         ----     ")
@@ -53,7 +53,7 @@ asw(f"{m}-----------------------------------------------------------------------
 asw(f"{m}                                              SpamCall7.0       ")
 asw(f"{m}----------------------------------------------------------------------------------------------------------------")
 asw(f"{m}                                                                                                   PL")
-asw(f"{m} ULTIMO SEGUIDOR:angelito2003")
+asw(f"{m} ULTIMO SEGUIDOR:Drynx86")
 print()
 asw(f"{m}----------------------------------------------------------------------------------------------------------------")
 asw(f"{m} Creador: Slax38")
