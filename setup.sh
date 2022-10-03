@@ -40,6 +40,7 @@ apt update && apt upgrade -y
 apt install python3
 pip install requests
 apt install getch
+pip install py-getch
 apt install aapt
 apt-get install aapt
 apt-get install getch
