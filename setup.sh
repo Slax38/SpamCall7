@@ -39,14 +39,14 @@ sleep 3.6
 echo
 echo
 apt update && apt upgrade -y 
-apt install python3  > /dev/null 2>&1 
-pip install requests  > /dev/null 2>&1
-apt install getch  > /dev/null 2>&1
-pip install py-getch  > /dev/null 2>&1
-apt install aapt  > /dev/null 2>&1
-apt-get install aapt  > /dev/null 2>&1
-apt-get install getch  > /dev/null 2>&1
-pip install getch  > /dev/null 2>&1
+apt install python3   
+pip install requests  
+apt install getch  
+pip install py-getch  
+apt install aapt  
+apt-get install aapt  
+apt-get install getch  
+pip install getch  
 echo ""
 echo -e "$redColour[*]!DEPENDENCIAS INSTALADAS CORRECTAMENTE...!"
 sleep 2.0
